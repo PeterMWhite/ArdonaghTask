@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model CustomersViewModel
+
+<div class="text-center">
+    <h1 class="display-4">Customers</h1>       
+    
+    <div>
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addCustomerModal">Add a new customer</button>
+    </div>
+    <div class="modal fade" id="addCustomerModal" tabindex="-1" aria-labelledby="addCustomerModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addCustomerModalLabel">Enter Customer Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @Html.Partial("_Form")
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Age</th>
+                <th scope="col">Postcode</th>
+                <th scope="col">Height</th>
+                <th/>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var c in Model.CustomersList)
+            {
+                <tr>
+                    <td>@c.Name</td>
+                    <td>@c.Age</td>
+                    <td>@c.Postcode</td>
+                    <td>@c.Height</td>
+                    <td><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addCustomerModal" onclick="populateForm(@c.Id)">Edit</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

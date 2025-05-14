@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ardonagh_Task_Application.props" />
+</Project>

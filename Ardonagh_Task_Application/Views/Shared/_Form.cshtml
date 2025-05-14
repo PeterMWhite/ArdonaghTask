@@ -1,0 +1,29 @@
+﻿@model CustomersViewModel
+
+<div class="w-auto">
+    <form asp-action="Insert" id="form-action" method="post" role="form">
+        <div>
+            <label asp-for="Customer.Name" class="text-start"></label>
+            <input asp-for="Customer.Id" type="hidden" id="id" />
+            <input asp-for="Customer.Name" class="form-control w-100" id="name"/>
+            <span asp-validation-for="Customer.Name" class="text-danger" style="display:block; text-align:left;"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Customer.Age" class="text-start"></label>
+            <input asp-for="Customer.Age" class="form-control" id="age" />
+            <span asp-validation-for="Customer.Age" class="text-danger text-start" style="display:block; text-align:left;"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Customer.Postcode" class="text-start"></label>
+            <input asp-for="Customer.Postcode" class="form-control" id="postcode" />
+            <span asp-validation-for="Customer.Postcode" class="text-danger text-start" style="display:block; text-align:left;"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Customer.Height" class="text-start"></label>
+            <input asp-for="Customer.Height" class="form-control" id="height"/>
+            <span asp-validation-for="Customer.Height" class="text-danger text-start" style="display:block; text-align:left;"></span>
+        </div>
+
+        <input type="submit" id="form-button" value="Save Customer" class="btn btn-success"/>
+    </form>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ardonagh_Task_Application.props" />
+</Project>

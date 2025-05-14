@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\views\\shared\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\views\\shared\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\models\\customerrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\models\\customerrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\models\\viewmodels\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\models\\viewmodels\\customersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|c:\\users\\wheatley 1\\documents\\github\\ardonaghtask\\ardonagh_task_application\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE96EE2-640B-493F-8539-6AD66A9824E2}|Ardonagh_Task_Application\\Ardonagh_Task_Application.csproj|solutionrelative:ardonagh_task_application\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Shared\\_Form.cshtml",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Views\\Shared\\_Form.cshtml",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Shared\\_Form.cshtml",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Views\\Shared\\_Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:28:42.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Ardonagh_Task_Application\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-14T21:22:26.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:27:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Models\\CustomerRecord.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Models\\CustomerRecord.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Models\\CustomerRecord.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Models\\CustomerRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:50:46.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:39:50.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:53:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:53:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:59:19.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Program.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAWwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:36:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\DBContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\DBContext\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:57:46.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:25:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Models\\ViewModels\\CustomersViewModel.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Models\\ViewModels\\CustomersViewModel.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Models\\ViewModels\\CustomersViewModel.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Models\\ViewModels\\CustomersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:40:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Ardonagh_Task_Application\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Wheatley 1\\Documents\\GitHub\\ArdonaghTask\\Ardonagh_Task_Application\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Ardonagh_Task_Application\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:26:58.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
